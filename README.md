@@ -1,2 +1,3 @@
 DesignPatterns
 ==============
+Abstract Factory
