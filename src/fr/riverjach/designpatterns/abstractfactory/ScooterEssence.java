@@ -2,10 +2,6 @@ package fr.riverjach.designpatterns.abstractfactory;
 
 public class ScooterEssence extends Scooter {
 
-	public ScooterEssence() {
-		super();
-	}
-
 	public ScooterEssence(String modele, String couleur, int puissance) {
 		super(modele, couleur, puissance);
 	}

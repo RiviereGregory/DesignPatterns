@@ -4,9 +4,6 @@ public abstract class ConstructeurLiasseVehicule {
 
 	protected Liasse liasse;
 
-	public ConstructeurLiasseVehicule() {
-	}
-
 	public ConstructeurLiasseVehicule(Liasse liasse) {
 		super();
 		this.liasse = liasse;

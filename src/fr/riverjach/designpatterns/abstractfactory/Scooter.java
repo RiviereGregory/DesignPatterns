@@ -5,9 +5,6 @@ public abstract class Scooter {
 	protected String couleur;
 	protected int puissance;
 
-	public Scooter() {
-	}
-
 	public Scooter(String modele, String couleur, int puissance) {
 		super();
 		this.modele = modele;

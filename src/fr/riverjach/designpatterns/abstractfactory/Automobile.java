@@ -6,8 +6,6 @@ public abstract class Automobile {
 	protected int puissance;
 	protected double espace;
 
-	public Automobile() {
-	}
 
 	public Automobile(String modele, String couleur, int puissance, double espace) {
 		super();

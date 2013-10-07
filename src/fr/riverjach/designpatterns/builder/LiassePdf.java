@@ -5,7 +5,7 @@ public class LiassePdf extends Liasse {
 	@Override
 	public void ajouteDocument(String document) {
 		if (document.startsWith("<PDF>")) {
-			contenu.add(document);
+			getContenu().add(document);
 		}
 
 	}
@@ -13,7 +13,7 @@ public class LiassePdf extends Liasse {
 	@Override
 	public void imprime() {
 		System.out.println("Liase PDF");
-		for (String s : contenu) {
+		for (String s : getContenu()) {
 			System.out.println(s);
 		}
 

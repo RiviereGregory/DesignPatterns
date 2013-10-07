@@ -2,9 +2,6 @@ package fr.riverjach.designpatterns.abstractfactory;
 
 public class AutomobileElectrique extends Automobile {
 
-	public AutomobileElectrique() {
-		super();
-	}
 
 	public AutomobileElectrique(String modele, String couleur, int puissance,
 			double espace) {
