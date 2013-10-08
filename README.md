@@ -17,3 +17,7 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 4. **Prototype** :
 	* Le but du pattern **Prototype** est la création de nouveaux objets par duplication d'objets
 	existants appelés prototypes qui disposent de la capacité de clonage.
+	
+5. **Singleton** :
+	* Le pattern **Singleton** a pour but d'assurer qu'une classe ne possède qu'une seule instance 
+	et de fournir une méthode de classe unique retournant cette instance. 
