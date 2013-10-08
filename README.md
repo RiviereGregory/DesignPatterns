@@ -1,5 +1,6 @@
 DesignPatterns
 ==============
+--------------------------------------
 
 1. **Abstract Factory** :
 	* Le but du pattern **Abstract Factory** est la création d'objets regroupés en familles 
@@ -20,4 +21,12 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	
 5. **Singleton** :
 	* Le pattern **Singleton** a pour but d'assurer qu'une classe ne possède qu'une seule instance 
-	et de fournir une méthode de classe unique retournant cette instance. 
+	et de fournir une méthode de classe unique retournant cette instance.
+	
+--------------------------------------- 
+
+6. **Adapter** :
+	* Le but du pattern **Adapter** est de convertir l'interface d'une classe existante en l'interface 
+	attendue par les clients également existants afin qu'ils puissent travailler ensemble. Il s'agit 
+	de conférer à une classe existante une nouvelle interface pour répondre aux besoins des clients.
+	
