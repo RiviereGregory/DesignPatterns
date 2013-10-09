@@ -34,3 +34,6 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le but du pattern **Bridge** est de séparer l'aspect d'implantation d'un objet de son aspect 
 	de représentation et d'interface.
 	
+8. **Composite** :
+	* Le but du pattern **Composite** est d'offrir un cadre de conception d'une composition d'objets 
+	dont la profondeur est variable, cette conception étant basée sur un arbre.
