@@ -30,3 +30,7 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	attendue par les clients également existants afin qu'ils puissent travailler ensemble. Il s'agit 
 	de conférer à une classe existante une nouvelle interface pour répondre aux besoins des clients.
 	
+7. **Bridge** :
+	* Le but du pattern **Bridge** est de séparer l'aspect d'implantation d'un objet de son aspect 
+	de représentation et d'interface.
+	
