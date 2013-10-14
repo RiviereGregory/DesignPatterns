@@ -37,3 +37,8 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 8. **Composite** :
 	* Le but du pattern **Composite** est d'offrir un cadre de conception d'une composition d'objets 
 	dont la profondeur est variable, cette conception étant basée sur un arbre.
+	
+9. **Decorator** :
+	* Le but du pattern **Decorator** est d'ajouter dynamiquement des fonctionnalités supplémentaires 
+	à un objet. Cet ajout de fonctionnalités ne modifie pas l'interface de l'objet et reste donc 
+	transparent vis-à-vis des clients.
