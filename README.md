@@ -1,6 +1,7 @@
 DesignPatterns
 ==============
 --------------------------------------
+**Patterns de construction**
 
 1. **Abstract Factory** :
 	* Le but du pattern **Abstract Factory** est la création d'objets regroupés en familles 
@@ -24,6 +25,7 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	et de fournir une méthode de classe unique retournant cette instance.
 	
 --------------------------------------- 
+**Patterns de structuration**
 
 6. **Adapter** :
 	* Le but du pattern **Adapter** est de convertir l'interface d'une classe existante en l'interface 
@@ -42,3 +44,10 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le but du pattern **Decorator** est d'ajouter dynamiquement des fonctionnalités supplémentaires 
 	à un objet. Cet ajout de fonctionnalités ne modifie pas l'interface de l'objet et reste donc 
 	transparent vis-à-vis des clients.
+
+10. **Facade** :
+	* L'objectif du pattern **Facade** est de regrouper les interfaces d'un ensemble d'objets en 
+	une interface unifiée rendant cet ensemble plus simple à utiliser pour un client.
+	
+	
+--------------------------------------- 
