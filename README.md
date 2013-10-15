@@ -53,5 +53,9 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le but du pattern **Flyweight** est de partager de façon efficace un ensemble important 
 	d'objets de grain fin.
 	
+12. **Proxy** :
+	* Le pattern **Proxy** a pour objectif la conception d'un objet qui se substitue à un autre 
+	objet (le sujet) et qui en contrôle l'accès.
+	
 	
 --------------------------------------- 
