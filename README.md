@@ -49,5 +49,9 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* L'objectif du pattern **Facade** est de regrouper les interfaces d'un ensemble d'objets en 
 	une interface unifiée rendant cet ensemble plus simple à utiliser pour un client.
 	
+11. **Flyweight** :
+	* Le but du pattern **Flyweight** est de partager de façon efficace un ensemble important 
+	d'objets de grain fin.
+	
 	
 --------------------------------------- 
