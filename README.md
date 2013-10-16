@@ -59,3 +59,10 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	
 	
 --------------------------------------- 
+**Patterns de comportement**
+
+13. **Chain of Responsibility** :
+	* Le pattern **Chain of Responsibility** construit une chaine d'objets telle que si un objet 
+	de la chaine ne peut pas répondre à une requête, il puisse la transmettre à son successeur 
+	et ainsi de suite jusqu'à ce que l'un des objets de la chaine y réponde.
+	
