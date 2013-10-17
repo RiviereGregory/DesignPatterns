@@ -70,4 +70,9 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le pattern **Command** a pour objectif de transformer une requête en un objet, facilitant 
 	des opérations comme l'annulation, la mise en file des requêtes et leur suivi.
 	
+15. **Interpreter** :
+	* Le partern **Interpreter** fournit un cadre pour donner une représentation par objets de la 
+	grammaire d'un langage afin d'évaluer, en les interprétant, des expressions écrites dans ce langage.
+	
+
 
