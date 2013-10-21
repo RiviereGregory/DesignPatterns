@@ -83,5 +83,9 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	contrôle des interactions dans un ensemble d'objets sans que ses éléments doivent se connaître 
 	mutuellement.
 	
+18. **Memento** :
+	* Le pattern **Memento** a pour but de sauvegarder et de restaurer l'état d'un objet sans en 
+	violer l'encapsulation.
+	
 
 
