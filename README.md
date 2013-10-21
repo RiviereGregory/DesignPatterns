@@ -74,5 +74,9 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le partern **Interpreter** fournit un cadre pour donner une représentation par objets de la 
 	grammaire d'un langage afin d'évaluer, en les interprétant, des expressions écrites dans ce langage.
 	
+16. **Iterator** :
+	* Le pattern **Iterator** fournit un accès séquentiel à une collection d'objets à des clients 
+	sans que ceux-ci doivent se préoccuper de l'implantation de cette collection.
+	
 
 
