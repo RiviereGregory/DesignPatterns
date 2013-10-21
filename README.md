@@ -78,5 +78,10 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le pattern **Iterator** fournit un accès séquentiel à une collection d'objets à des clients 
 	sans que ceux-ci doivent se préoccuper de l'implantation de cette collection.
 	
+17. **Mediator** :
+	* Le pattern **Mediator** a pur but de construire un objet dont la vocation est la gestion et le 
+	contrôle des interactions dans un ensemble d'objets sans que ses éléments doivent se connaître 
+	mutuellement.
+	
 
 
