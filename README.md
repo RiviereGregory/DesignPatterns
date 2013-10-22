@@ -96,6 +96,10 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le pattern **State** permet à un objet d'adapter son comportement en fonction de son état 
 	interne.
 	
+21. **Strategy** :
+	* Le pattern **Strategy** a pour objectif d'adapter le comportement et les algorithmes d'un 
+	objet en fonction d'un besoin sans changer les interactions de cet objet avec les clients.
+	
 
 
 
