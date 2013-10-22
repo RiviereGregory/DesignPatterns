@@ -92,5 +92,10 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	observateurs de sorte que chaque modification du sujet soit notifiée aux observateurs afin 
 	qu'ils puissent mettre à jour leur état.
 	
+20. **State** :
+	* Le pattern **State** permet à un objet d'adapter son comportement en fonction de son état 
+	interne.
+	
+
 
 
