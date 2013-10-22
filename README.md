@@ -87,5 +87,10 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le pattern **Memento** a pour but de sauvegarder et de restaurer l'état d'un objet sans en 
 	violer l'encapsulation.
 	
+19. **Observer** :
+	* La pattern **Observer** a pour objectif de construire une dépendance entre un sujet et des 
+	observateurs de sorte que chaque modification du sujet soit notifiée aux observateurs afin 
+	qu'ils puissent mettre à jour leur état.
+	
 
 
