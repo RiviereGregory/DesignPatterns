@@ -100,6 +100,10 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le pattern **Strategy** a pour objectif d'adapter le comportement et les algorithmes d'un 
 	objet en fonction d'un besoin sans changer les interactions de cet objet avec les clients.
 	
+22. **Template Method** :
+	* Le pattern **Template Method** permet de reporter dans des sous-classes certaines étapes 
+	de l'une des opérations d'un objet, ces étapes étant alors décrites dans les sous-classes.
+	
 
 
 
