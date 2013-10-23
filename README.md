@@ -104,6 +104,11 @@ sans devoir connaître les classes concrètes destinées à la création de ces objet
 	* Le pattern **Template Method** permet de reporter dans des sous-classes certaines étapes 
 	de l'une des opérations d'un objet, ces étapes étant alors décrites dans les sous-classes.
 	
+23. **Visitor** :
+	* Le pattern **Visitor** construit une opération à réaliser sur les éléments d'un ensemble 
+	d'objets. De nouvelles opérations peuvent ainsi être ajoutées sans modifier les classes de 
+	ces objets.
+	
 
 
 

@@ -15,7 +15,20 @@ public class Main {
 		System.out.println("cout d'entretien total du groupe : " + groupe.calculeCoutEntretien());
 		System.out.println("cout d'entretien societe1 : " + societe1.calculeCoutEntretien());
 		System.out.println("cout d'entretien societe2 : " + societe2.calculeCoutEntretien());
-
+		
+		Societe societe3 = new SocieteSansFiliale();
+		societe3.ajouteVehicule();
+		societe3.ajouteVehicule();
+		Societe groupe2 = new SocieteMere();
+		groupe2.ajouteFiliale(groupe);
+		groupe2.ajouteFiliale(societe3);
+		groupe2.ajouteVehicule();
+		System.out.println();
+		System.out.println("cout d'entretien total du groupe2 : " + groupe2.calculeCoutEntretien());
+		System.out.println("cout d'entretien total du groupe : " + groupe.calculeCoutEntretien());
+		System.out.println("cout d'entretien societe1 : " + societe1.calculeCoutEntretien());
+		System.out.println("cout d'entretien societe2 : " + societe2.calculeCoutEntretien());
+		System.out.println("cout d'entretien societe3 : " + societe3.calculeCoutEntretien());
 	}
 
 }
